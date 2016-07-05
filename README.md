@@ -1,4 +1,4 @@
-# Praksaton_RP2projekt
+# Praksaton
 Projekt u sklopu kolegija Računarski praktikum 2 
 
 Treba prilagoditi spajanje na bazu u model/db.class.php
