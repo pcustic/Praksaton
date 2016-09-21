@@ -1,10 +1,14 @@
 # Praksaton
-Projekt u sklopu kolegija Računarski praktikum 2 
+Project made for university course called Racunarski praktikum 2 (web programming, PHP + JS).
 
-Treba prilagoditi spajanje na bazu u model/db.class.php
+To run the application you should adjust database settings in model/db.class.php and first run script app/boot/prepare_DB.php. That script creates database tables and fills database with a bit of data.
 
-Koristi "PHPRO" varijantu MVC frameworka.
+Application is written in PHP following MVC "PHPRO" design pattern.
 
-Ovo je Praksaton, portal za studentske prakse. U njemu svi mogu pregledavati ponudjene prakse a prijavljeni studenti mogu izraditi profil i prijaviti se na sve ponudjene prakse.
+This is Praksaton, web application for student internships. Everybody can view offered internships, students can register, edit their profile and apply to internships.
 
-Tvrtke se takodjer mogu prijaviti, izraditi novu praksu te primiti ili odbiti studente koji su se prijavili na njihovu praksu.
+Companies can register, offer new internship and accept/reject students that applied to their internships.
+
+App is in Croatian.
+
+You can (maybe) find app [here](http://rp2.studenti.math.hr/~pcustic/mvc/projekt).
